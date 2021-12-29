@@ -31,3 +31,5 @@ Tools : ![SQL](https://img.shields.io/badge/-SQL-lightblue) ![BigQuery](https://
 [07 - Voice of Customer](https://github.com/5730281021-NB/BADS7105_CRM_Analytics/tree/main/07_Voice%20of%20Customer)
 
 Tools : ![Python](https://img.shields.io/badge/-Python-success) ![PyThaiNLP](https://img.shields.io/badge/-PyThaiNLP-ff69b4) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-yellow) ![ump](https://img.shields.io/badge/-UMAP-9cf) ![ScikitLearn](https://img.shields.io/badge/-ScikitLearn-orange)
+
+[08 - Design Thinking](https://github.com/5730281021-NB/BADS7105_CRM_Analytics/tree/main/08_Design%20Thinking)
